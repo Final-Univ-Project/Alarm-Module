@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AlarmAppByNotification</string>
+
+    <string name="alarm_requestId">0</string>
+
+    <string name="CHANNEL_ID">fitness_app_noti_id</string>
+    <string name="channel_name">운동 앱 알림 테스트</string>
+    <string name="channel_description">운동 앱 알림 테스트입니다.</string>
+
+    <string name="NOTI_ID">1001</string>
+    <string name="JOB_ID">1000</string>
+</resources>
